@@ -6,7 +6,8 @@
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+Microsoft is venturing into the movie industry and their data scientists have been data analysis to provide recommendations on action steps to take. In this analysis, I ultized 3 movie/tv databases to gather insights and produce data visualizations to create recommendations. To create useful visualizations, the data had to be manipulated by doing things such as: removing columns, null values, and other  information. Throughout the data analysis, visualizations were created to show the correlation and relationship between variables to indicate results of the research. Utilizing the methods above resulted in a collection of results to view correlations between variables in the popular movies that had high ratings, gross, budget, and other variables to provide recommendations. My recommdations include using a fiction movie with production budget of 40 million dollars and releasing the movie within the months of January, May, and June. To adapt to the covid pandemic I also suggested parthering with other applications that show movies that are in theathers and working with social media influencers to increase popularity of the movie.
+
 
 ### Business Problem
 
@@ -25,16 +26,16 @@ The Factors Include:
 
 The Movie Database (TMDb): TMDb is a database created for movies and TV shows insights.
 * Contains 3387 movies which have details on studio, gross(domestic & foreign) and year.
-* For the purpose of the project, I focused mainly on the top 10 movies and genres.
+* Focus: Top 10 movies and genres 
 
 The Numbers is "premier provider of movie industry data and research services.”
 * Contains 5782 movies with details including: movie, production budget, gross (domestic & worldwide)
-* For the purpose of the project, I conducted research on budget vs. worldwide budget.
+* Focus: Production budget vs. world wide budget.
 
 Box Office Mojo is an database that collects information on domestic & international movies & tv shows. 
 * Contains 26, 517 movies with an average rating of 5.99 out of 10. 
 * This dataset included data on original language, title, popularity, release date, title, vote average, and vote count. 
-* For the purpose of the project, I focused mainly on the relationship between release month and vote average. 
+* Focus: Relationship between release month and vote average.  
 
 
 ## Methods
@@ -103,13 +104,10 @@ In conclusion, I would recommend that Microsoft consider these recommendations t
 * HBO Max
 * Disney Plus
 
-These factors above would be allow Microsoft to have a great start to their venture into the movie production world. As the world continues to change, I would highly suggest partnering with modern applications to increase profit  and the number of individuals watching the movies. In the future, we can continue to collect data on movie applications and continue to experiment with other variables that may affect the production of a successful movie.
-
+These factors above would be allow Microsoft to have a great start to their venture into the movie production world. As the world continues to change, I would highly suggest partnering with modern applications to increase profit and the number of individuals watching the movies. In the future, we can continue to collect data on movie applications, modern solutions that companies are utilizing for the pandemic, and continue to experiment with other variables that may affect the production of a successful movie. Finally Microsoft should consider working with familiar social media influencers and actors to increase popularity of their film.
 
 
 ## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
