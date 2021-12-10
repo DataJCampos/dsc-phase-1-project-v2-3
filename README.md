@@ -65,8 +65,20 @@ Box Office Mojo is an database that collects information on domestic & internati
 
 
 
-### Visual 1
-![graph1](./images/viz1.png)
+### Visual 1: Top 10 Movies via TMDb
+![graph1](.Images/Bar%20Graph%20Top%2010%20From%20TMDb.png)
+
+### Visual 2: Production Budget Vs. Worldwide Gross
+
+![graph2](.Images/Scatter%20Plot%20Budget%20vs%20Gross%20From%20The%20Numbers.png)
+
+### Visual 3 & 4: Release Month & Vote Average
+
+![graph3](.Images/Bar%20Graph%20From%20Box%20Office%20Mojo.png)
+
+
+![graph4](.Images/Scatter%20Plot%20From%20Box%20Office%20Mojo.png)
+
 
 ## Conclusions
 
@@ -75,7 +87,7 @@ In conclusion, I would recommend that Microsoft consider these recommendations t
 **Production Budget:
 * 40,000,000 dollars + which is what the movies in the top 25% use 
 
-**Releasing movie on the months of January, May, and June
+* Releasing movie on the months of January, May, and June
 
 **Genre:
 * fiction movies: 
