@@ -6,12 +6,12 @@
 
 ## Overview
 
-Microsoft is venturing into the movie industry and their data scientists have been analysising movie/tv databases to provide recommendations on action steps to take. In this analysis, I used 3 movie/tv databases to gather insights and produce data visualizations to show results. To create useful visualizations, the data had to be manipulated by doing things such as: removing columns, null values, and other  information. Throughout the data analysis, the visualizations showed the correlation and relationship between variables to indicate results of the research. The variables shown in the visualizations include: rating, gross, budget, and other variables to provide recommendations. My recommendations include using a fiction movie with production budget of 40 million dollars and releasing the movie within the months of January, May, and June. To adapt to the covid pandemic I also suggested parthering with other applications that show movies that are in theathers and working with social media influencers to increase popularity of the movie.
+Microsoft is venturing into the movie industry and their data scientists have been analyzing movie/tv databases to provide recommendations on action steps to take. In this analysis, I used 3 movie/tv databases to gather insights and produce data visualizations to show results. To create useful visualizations, the data had to be manipulated by doing things such as: removing columns, null values, and other information. Throughout the data analysis, the visualizations showed the correlation and relationship between variables to indicate results of the research. The variables shown in the visualizations include: rating, gross, budget, and other variables to provide recommendations. My recommendations include using a fiction movie with a production budget of 40 million dollars and releasing the movie within the months of January, May, and June. To adapt to the covid pandemic I also suggested partnering with other applications that show movies that are in theaters and working with social media influencers to increase popularity of the movie. 
 
 
 ### Business Problem
 
-Microsoft is looking to venture into the multi-billion dollar movie making industry. To aid in the company's goal, I have conducted research by looking into what variables may lead to be a successful movie release.  With the development of their new movie studio, I researched, collected information, and analyzed the recommendations for action steps. 
+To aid in the company's goal of getting into the movie industry, I have conducted research by looking into what variables may lead to be a successful movie release.  With the development of their new movie studio, I researched, collected information, and analyzed the recommendations for action steps. 
 During my analysis I looked closely at variables such as budget, gross profit (domestic, international, and worldwide), ratings, and more. 
 
 The Factors Include:
